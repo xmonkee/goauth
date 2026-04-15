@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# Never commit credentials or tokens
+credentials.json
+tokens.json

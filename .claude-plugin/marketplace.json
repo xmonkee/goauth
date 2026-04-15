@@ -1,0 +1,13 @@
+{
+  "name": "valdera-tools",
+  "owner": {
+    "name": "Valdera"
+  },
+  "plugins": [
+    {
+      "name": "google-auth",
+      "source": "./plugins/google-auth",
+      "description": "OAuth token management for Google APIs (Sheets, Drive, Docs, and more). Provides a /google-auth skill that gets valid access tokens."
+    }
+  ]
+}

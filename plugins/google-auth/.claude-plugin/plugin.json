@@ -1,0 +1,5 @@
+{
+  "name": "google-auth",
+  "description": "OAuth token management for Google APIs (Sheets, Drive, Docs, and more)",
+  "version": "1.0.0"
+}
